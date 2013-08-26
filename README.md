@@ -15,6 +15,14 @@ Tom - made 2nd change
 This is a remote change by Tom
 Remote change 2 by Tom
 
+<<<<<<< HEAD
 Ying - made 6th change from local
+
 Ying - made 7th change from local
+
+
+=======
+Ying - made 7th change from local
+
+>>>>>>> 9f08ab1fe22ce78701794e1ca03199aedb3e1630
 

@@ -24,5 +24,9 @@ Tom - made 3rd change from local
 Tom - made 4th change from remote
 
 Tom - made 5th change from local
-Ying - made 8th change from remote to test p4merge
+
+<<<<<<< HEAD
 Ying - made 9th change from local
+=======
+Ying - made 8th change from remote to test p4merge
+>>>>>>> ee87c94ddf8d1ceca129d030072f2dd6b026fcff

@@ -47,7 +47,7 @@
 
 #import <UIKit/UIKit.h>
 
-@class MyTableViewController;
+@class RSATableViewController;
 
 @interface AppDelegate : NSObject <UIApplicationDelegate>
 {
